@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Asphaltica 2026 — Strade Nuove",
+      "hasCanvas": false,
+      "bodyTextLen": 6067,
+      "bodyTextHash": "921e4045ab8e20159131dd344ed88b982070d15e6d7ec81d5f6fd32f4e1b520e",
+      "bodyTextPrefix": "Vai alla richiesta di partecipazione stradenuove CONOSCERE E APP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Asphaltica 2026 — Strade Nuove",
+      "hasCanvas": false,
+      "bodyTextLen": 5982,
+      "bodyTextHash": "88d0f37ebf29352de6aab9c7d5e4746a1cf5f3777a8ab83c2619eae6aafb00a6",
+      "bodyTextPrefix": "Vai alla richiesta di partecipazione stradenuove CONOSCERE E APP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
